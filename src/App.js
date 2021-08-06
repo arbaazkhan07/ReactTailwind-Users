@@ -1,8 +1,15 @@
-import './App.css';
+import Home from './components/Home';
+import About from './components/About';
+import Contact from './components/Contact';
+import Header from './layouts/Header';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
+    <div className="">
+      <Header />
+      <Home />
+      <About />
+      <Contact />
     </div>
   );
 }
