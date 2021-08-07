@@ -1,31 +1,40 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Arbaaz khan",
-        "username": "arbaazkhan",
-        "email": "khan@test.com",
-        "address": "Belgaum",
-        "phone": "9876543210",
-        "website": "www.codewithkhan.com"
-      },
-      {
-        "id": 2,
-        "name": "Naveed Desai",
-        "username": "naveeddesai",
-        "email": "naveed@test.com",
-        "address": "Gokak",
-        "phone": "9876543211",
-        "website": "www.codewithnaveed.com"
-      },
-      {
-        "id": 3,
-        "name": "Rohit Majagavi",
-        "username": "rohitmajagavi",
-        "email": "rohit@test.com",
-        "address": "Honaga",
-        "phone": "9876543212",
-        "website": "www.codewithrohit.com"
-      }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Arbaaz khan",
+      "username": "arbaazkhan",
+      "email": "khan@test.com",
+      "address": "Belgaum",
+      "phone": "9876543210",
+      "website": "www.codewithkhan.com"
+    },
+    {
+      "id": 2,
+      "name": "Naveed Desai",
+      "username": "naveeddesai",
+      "email": "naveed@test.com",
+      "address": "Gokak",
+      "phone": "9876543211",
+      "website": "www.codewithnaveed.com"
+    },
+    {
+      "name": "Raj Poon",
+      "username": "rajpoon",
+      "email": "raj@test.com",
+      "phone": "9876543212",
+      "address": "champ",
+      "website": "codewithraj.com",
+      "id": 3
+    },
+    {
+      "name": "Rohit Majagavi",
+      "username": "rohitmajagavi",
+      "email": "rohit@test.com",
+      "phone": "9876543213",
+      "address": "Honaga",
+      "website": "codewithrohit.com",
+      "id": 4
+    }
+  ]
 }
