@@ -35,7 +35,7 @@ const AddUser = () => {
     };
     return (
         <div className="container w-4/5 mx-auto my-6">
-            <h1 className="text-gray-800 text-4xl text-center font-extrabold"><span className="border-b-4 border-yellow-500">Edit User</span></h1> 
+            <h1 className="text-4xl my-6 text-gray-600 text-center font-extrabold"><span className="border-b-4 border-yellow-500">Edit User</span></h1> 
             <form onSubmit={UpdateUser} className="grid place-items-center w-full mx-auto">
 
                 <input type="text" onChange={handleChange} defaultValue={user.name} className="w-3/5 outline-none rounded-md focus:ring-4 focus:ring-yellow-500  bg-gray-100 placeholder-indigo-400 tracking-wider mt-6 mb-4 py-2 px-3" name="name" placeholder="Enter Your Name" required/>
